@@ -65,8 +65,8 @@ AI & OCR
  Clone the Repository
 
 bash
-git clone https://github.com/ITStrider_ML_AI-Based-Handwritten-Notes-Digitizer.git
-cd your-repo-name
+git clone https://github.com/Maheshwar9850/ITStrider_ML_AI-Based-Handwritten-Notes-Digitizer.git
+cd ITStrider_ML_AI-Based-Handwritten-Notes-Digitizer
 
 
  Frontend Setup
