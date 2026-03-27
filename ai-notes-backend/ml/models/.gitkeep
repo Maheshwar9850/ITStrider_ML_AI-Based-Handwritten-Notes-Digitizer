@@ -1,0 +1,2 @@
+# Place trained model files here (e.g. model.pt, model.pkl, config.json)
+# This directory is gitignored for large binary files — see .gitignore
